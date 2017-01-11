@@ -13,7 +13,7 @@ public class App {
     public static void main(String[] args) throws EmailException, IOException {
 //        MailSender.sendMailWithMessageFromFile("javandwro1@gmail.com",
 //                "Hello mail from JWrabel #3", "file.txt");
-        System.out.println("Hello sdasdsa");
+        System.out.println("Hello sdaaasdsa");
         System.out.println("Hello 1234567");
 
     }
